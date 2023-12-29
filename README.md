@@ -1,5 +1,6 @@
 ### Hello, World! 👋 
-I'm Szymon, an AI enthusiast and recent graduate in the art of coding.
+#### I'm Szymon, an AI enthusiast and recent graduate in the art of coding.
+
 
 🚀 **My recent projects in AI field**
 
