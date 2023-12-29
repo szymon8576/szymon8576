@@ -1,4 +1,5 @@
-### Hello, World! 👋 I'm Szymon, an AI enthusiast and recent graduate in the art of coding.
+### Hello, World! 👋 
+I'm Szymon, an AI enthusiast and recent graduate in the art of coding.
 
 🚀 **My recent projects in AI field**
 
@@ -8,10 +9,10 @@ While working on this project, I primarily utilized OpenCV, NumPy, and TensorFlo
 - 📁 [GitHub Repo]()
 - 📘 [Google Colab Notebook]()
 
-#### 🌐 [AnalyseIT - Sentiment Analysis App](https://example.com/analyseit)
+#### 🌐 [AnalyseIT - Sentiment Analysis App](https://analyseit-frontend.onrender.com/)
 Ever wondered how people feel about your latest creation? AnalyseIT provides tools for recognizing emotions in a single sentence or in batch data, offering oversight for the provided set of sentences.
-- 📁 [GitHub Repo]()
-- 📘 [Google Colab Notebook]()
+- 📁 [GitHub Repo](https://github.com/szymon8576/AnalyseIT)
+- 📘 [LSTM Model](https://colab.research.google.com/drive/1bwBMnJFGU2RCaIVwUoTuAzc92nFKcTnu?usp=sharing), [DistilBERT model](https://colab.research.google.com/drive/1bwBMnJFGU2RCaIVwUoTuAzc92nFKcTnu?usp=sharing)
 
 <!--
 **szymon8576/szymon8576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
