@@ -1,13 +1,13 @@
 ### Hello, World! 👋 
-#### I'm Szymon, an AI enthusiast and recent graduate in the art of coding.
+I'm Szymon, an AI enthusiast and recent graduate in the art of coding.
 
 
 🚀 **My recent projects in AI field**
 
-#### ✨ [HWS - Handwritten Equation Solver](https://example.com/handwritten-equation-solver)
+#### ✨ [HWS - Handwritten Equation Solver]([https://example.com/handwritten-equation-solver](https://hes-frontend.onrender.com/))
 Unleashing the power of image recognition to solve handwritten mathematical equations. This code turns scribbles into solutions! 
 While working on this project, I primarily utilized OpenCV, NumPy, and TensorFlow. You can find more details here:
-- 📁 [GitHub Repo]()
+- 📁 [GitHub Repo](https://github.com/szymon8576/HandwrittenEquationSolver)
 - 📘 [Google Colab Notebook]()
 
 #### 🌐 [AnalyseIT - Sentiment Analysis App](https://analyseit-frontend.onrender.com/)
