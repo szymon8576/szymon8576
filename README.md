@@ -1,4 +1,4 @@
-### Hello, World! 👋 
+### Hello, World!&nbsp; 👋 
 I'm Szymon, an AI enthusiast and recent graduate in the art of coding.
 
 
