@@ -3,7 +3,7 @@ I'm Szymon, an AI enthusiast and recent graduate in the art of coding.
 
 🚀 **My recent projects in AI field**
 - **📊 AnalyseIT - Sentiment Analysis App**   
- Who said that computers don't understand emotions? AnalyseIT recognizes nearly 30 of them!  With this app you can recognize emotions in a single sentence or in whole text.
+ Who said computers don't understand emotions? AnalyseIT recognizes nearly 30 of them!  With this app you can recognize emotions in a single sentence or in whole text.
   - 🌐 [Project homepage](https://analyseit.onrender.com/)
   - 🔢 Technologies used: Tensorflow, HuggingFace Models, NumPy, Azure Cloud.
   - 📁 [GitHub Repo](https://github.com/szymon8576/AnalyseIT), 📘 [LSTM Notebook](https://colab.research.google.com/drive/1bwBMnJFGU2RCaIVwUoTuAzc92nFKcTnu?usp=sharing), 📘 [DistilBERT Notebook](https://colab.research.google.com/drive/1bwBMnJFGU2RCaIVwUoTuAzc92nFKcTnu?usp=sharing)
