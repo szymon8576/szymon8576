@@ -2,17 +2,19 @@
 I'm Szymon, an AI enthusiast and recent graduate in the art of coding.
 
 🚀 **My recent projects in AI field**
-
-- **[HWS - Handwritten Equation Solver](https://eqsolver.onrender.com/)** 
-  Unleashing the power of image recognition to solve handwritten mathematical equations. This code turns scribbles into solutions! 
-  While working on this project, I primarily utilized OpenCV, NumPy, and TensorFlow. You can find more details here:
-  - 📁 [GitHub Repo](https://github.com/szymon8576/HandwrittenEquationSolver)
-  - 📘 [Google Colab Notebook]()
-
-- **[AnalyseIT - Sentiment Analysis App](https://analyseit.onrender.com/)**
-  Ever wondered how people feel about your latest creation? AnalyseIT provides tools for recognizing emotions in a single sentence or in batch data, offering oversight for the provided set of sentences.
+- **[📊 AnalyseIT - Sentiment Analysis App](https://analyseit.onrender.com/)**   
+ Who said that computers don't understand emotions? AnalyseIT recognizes nearly 30 of them!  With this app you can recognize emotions in a single sentence or in whole text.
   - 📁 [GitHub Repo](https://github.com/szymon8576/AnalyseIT)
-  - 📘 [LSTM Model](https://colab.research.google.com/drive/1bwBMnJFGU2RCaIVwUoTuAzc92nFKcTnu?usp=sharing), [DistilBERT model](https://colab.research.google.com/drive/1bwBMnJFGU2RCaIVwUoTuAzc92nFKcTnu?usp=sharing)
+  - 📘 [LSTM Notebook](https://colab.research.google.com/drive/1bwBMnJFGU2RCaIVwUoTuAzc92nFKcTnu?usp=sharing), [DistilBERT Notebook](https://colab.research.google.com/drive/1bwBMnJFGU2RCaIVwUoTuAzc92nFKcTnu?usp=sharing)
+ 
+- **[📝 Handwritten Equation Solver](https://eqsolver.onrender.com/)**  
+  This app turns scribbles into solutions!  Obtain a step-by-step solution for any handwritten math problem.
+
+  - 🔢 Used technologies: OpenCV, NumPy, TensorFlow, Azure Cloud.
+  - 📁 [GitHub Repo](https://github.com/szymon8576/HandwrittenEquationSolver)
+  - 📘 [CNN Notebook]()
+
+
 
 <!--
 **szymon8576/szymon8576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
