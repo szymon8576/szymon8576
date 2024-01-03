@@ -1,9 +1,10 @@
 ### Hello, World! 👋 
 I'm Szymon, an AI enthusiast and recent graduate in the art of coding.
 
-🚀 **My latest projects in AI field**
+🔥 **My latest projects in AI field**
 - **📊 AnalyseIT - Sentiment Analysis App**   
- Who said computers don't understand emotions? AnalyseIT recognizes nearly 30 of them!  With this app you can recognize emotions in a single sentence or in whole text.
+ Who said computers don't understand emotions? AnalyseIT recognizes nearly 30 of them!  
+ With this app you can recognize emotions in a single sentence or in whole text.
   - 🌐 [Project homepage](https://analyseit.onrender.com/)
   - 📁 [GitHub Repo](https://github.com/szymon8576/AnalyseIT), 📘 [LSTM Notebook](https://colab.research.google.com/drive/1bwBMnJFGU2RCaIVwUoTuAzc92nFKcTnu?usp=sharing), 📘 [DistilBERT Notebook](https://colab.research.google.com/drive/1bwBMnJFGU2RCaIVwUoTuAzc92nFKcTnu?usp=sharing)
   - 🔢 Tech stack: HuggingFace Models, PyTorch, Azure Cloud, Flask, Pandas, Numpy
@@ -17,7 +18,7 @@ I'm Szymon, an AI enthusiast and recent graduate in the art of coding.
 - **🎲 Yahtzee Game [work in progress 👷‍♂️]**  
   Who wouldn't enjoy a nice dice game? You can choose between multiplayer and single mode. What's more, thanks to the applied AI model, you can select dices with your voice!
 
-  _This is a hobby project developed in collaboration with cheerful frontend developer, [@nsoktab](https://github.com/nsoktab). I was responsible for creating the server and implementing the voice recognition model._
+  _This is a hobby project developed in collaboration with a cheerful frontend developer, [@nsoktab](https://github.com/nsoktab). I was responsible for creating the server and implementing the voice recognition model._
   - 📁 [GitHub Repo](https://github.com/szymon8576/Yahtzee), 📘 [Model Notebook](https://colab.research.google.com/drive/1FOOrM3EnNS871vDrD01rgMnXAtkY5qCm?usp=sharing)
   - 🔢 Tech stack: Keras, Optuna, Docker, WebSockets, Librosa, scikit-learn
 
