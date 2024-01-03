@@ -19,25 +19,26 @@
         background-color: #ddd;
     }
 </style>
-<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 <script>
-    $(document).ready(function () {
-        $(".CodeMirror").hide();
+    document.addEventListener('DOMContentLoaded', function () {
+        // Hide code cells initially
+        var codeMirrors = document.querySelectorAll('.CodeMirror');
+        codeMirrors.forEach(function (codeCell) {
+            codeCell.style.display = 'none';
 
-       
-        $(".CodeMirror").each(function (index) {
-            var codeCell = $(this);
+            // Add a button for each code cell
+            var toggleButton = document.createElement('button');
+            toggleButton.classList.add('toggle-button');
+            toggleButton.textContent = 'Show code snippet';
+            toggleButton.addEventListener('click', function () {
+                codeCell.style.display = (codeCell.style.display === 'none' || codeCell.style.display === '') ? 'block' : 'none';
+            });
 
-            $("<button>")
-                .addClass("toggle-button")
-                .text("Show code snippet")
-                .click(function () {
-                    codeCell.toggle();
-                })
-                .insertBefore(codeCell);
+            codeCell.parentNode.insertBefore(toggleButton, codeCell);
         });
     });
 </script>
+
 
 
 	
