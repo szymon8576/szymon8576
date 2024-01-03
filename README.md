@@ -24,7 +24,7 @@ I'm Szymon, an AI enthusiast and recent graduate in the art of coding.
 
  🚀 **My other works**
 - **Mental Health in Tech Case Study** [📁](https://rawcdn.githack.com/szymon8576/szymon8576/7fc7f2e885058539bcfb808f905ff9f44c9a5c79/files/Case%20Study%20-%20Mental%20Health%20in%20Tech.html) where I compare the prediction abilities of XGBoost, DecisionTree, and Voting Classifiers on a real-life problem,
-- **Stock prediction App** [📁](https://github.com/TheMentalist-w/Stock-agent-DL) (with neural network) and **Language detection system** [📁](https://github.com/Rasalrai/NUM-language_detection) (with logistic regression), built with my colleagues during an AI course,
+- **Stock prediction App** [📁](https://github.com/TheMentalist-w/Stock-agent-DL) (with neural network) and **Language detection system** [📁](https://github.com/Rasalrai/NUM-language_detection) (with logistic regression), developed with my colleagues during an AI course,
 - **TensorFlow Serving** [📁](https://github.com/szymon8576/TFServing), a system configured to serve my AI models,
 - **WordleBOT** [📁](https://github.com/szymon8576/WordleBOT), where I employed an entropy-based approach to solve the puzzle,
 - Tasks from my college courses: [Natural Language Processing](https://github.com/szymon8576/NLP), [Internet Applications](https://github.com/szymon8576/AIACourse), and [other projects](https://github.com/szymon8576?tab=repositories).
