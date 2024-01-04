@@ -14,7 +14,7 @@ I'm Szymon, an AI enthusiast and recent graduate in the art of coding.
  Who said computers don't understand emotions? _AnalyseIT_ recognizes nearly 30 of them!  
 With this app, you can recognize the sentiment of a single sentence or an entire text.
   - 🌐 [Project homepage](https://analyseit.onrender.com/)
-  - 📁 [GitHub Repo](https://github.com/szymon8576/AnalyseIT), 📘 [LSTM Notebook](https://colab.research.google.com/drive/1bwBMnJFGU2RCaIVwUoTuAzc92nFKcTnu?usp=sharing), 📘 [DistilBERT Notebook](https://colab.research.google.com/drive/1bwBMnJFGU2RCaIVwUoTuAzc92nFKcTnu?usp=sharing)
+  - 📁 [GitHub Repo](https://github.com/szymon8576/AnalyseIT), 📘 [LSTM Notebook](https://colab.research.google.com/drive/1bwBMnJFGU2RCaIVwUoTuAzc92nFKcTnu?usp=sharing), 📘 [DistilBERT Notebook](https://colab.research.google.com/drive/1it8LqvtzmJGTNIuYOy8Tn_wJ1EecgTTJ?usp=sharing)
   - 🔢 Tech stack: HuggingFace Models, PyTorch, Optuna, Azure Cloud, Flask, Pandas, Numpy
 
 - **🎲 Yahtzee Game [work in progress 👷‍♂️]**  
