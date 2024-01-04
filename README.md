@@ -21,7 +21,7 @@ With this app, you can recognize the sentiment of a single sentence or an entire
   Who wouldn't enjoy a nice dice game?  
   You can choose between multiplayer and single mode. What's more, thanks to the applied AI model, you can select dices with your voice!
 
-  _This is a hobby project developed in collaboration with [Natalia](https://github.com/nsoktab), a frontend developer. I was responsible for creating the server and implementing the voice recognition model._
+  _This is a hobby project developed in collaboration with my friend [Natalia](https://github.com/nsoktab), who is a frontend developer. I was responsible for creating the server and implementing the voice recognition model._
   - 📁 [GitHub Repo](https://github.com/szymon8576/Yahtzee), 📘 [Speech Recognition Notebook](https://colab.research.google.com/drive/1FOOrM3EnNS871vDrD01rgMnXAtkY5qCm?usp=sharing)
   - 🔢 Tech stack: Keras, Optuna, Docker, WebSockets, Librosa, scikit-learn
 
