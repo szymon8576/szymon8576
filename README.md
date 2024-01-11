@@ -19,7 +19,7 @@ With this app, you can recognize the sentiment of a single sentence or an entire
 
 - **🎲 Yahtzee Game**  
   Who wouldn't enjoy a nice dice game?  
-  You can choose between multiplayer and single mode. What's more, thanks to the applied AI model, you can select dices with your voice!
+  You can choose between multiplayer and single mode. What's more, thanks to the applied AI model, you can select dice with your voice!
 
   _This is a hobby project developed in collaboration with my friend, [Natalia](https://github.com/nsoktab), who is a frontend developer. I was responsible for creating the server and implementing the speech recognition model._
   - 🌐 [Project homepage](https://yahtzee-game.onrender.com)  [under construction 👷‍♂️]
