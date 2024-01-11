@@ -8,7 +8,7 @@ I'm Szymon, an IT enthusiast and recent graduate in the art of AI.
   Obtain a step-by-step solution for any handwritten math problem.
   - 🌐 [Project homepage](https://eqsolver.onrender.com/)
   - 📁 [GitHub Repo](https://github.com/szymon8576/HandwrittenEquationSolver), 📘 [Model Notebook](https://colab.research.google.com/drive/1M2wchQkJgfzN5KPtlWMlM3uVPgRTHznd?usp=sharing)
-  - 🔢 Tech stack: TensorFlow, OpenCV, Docker, Sympy, PostgreSQL, Flask, Requests, Azure Cloud (Web and Container Applications)
+  - 🔢 Tech stack: TensorFlow, OpenCV, Docker, Sympy, PostgreSQL, Flask, Azure Cloud
  
 - **📊 AnalyseIT - Sentiment Analysis App**   
  Who said computers don't understand emotions? _AnalyseIT_ recognizes nearly 30 of them!  
@@ -24,7 +24,7 @@ With this app, you can recognize the sentiment of a single sentence or an entire
   _This is a hobby project developed in collaboration with my friend, [Natalia](https://github.com/nsoktab), who is a frontend developer. I was responsible for creating the server and implementing the voice recognition model._
   - 🌐 [Project homepage](https://yahtzee-game.onrender.com)  [under construction 👷‍♂️]
   - 📁 [GitHub Repo](https://github.com/szymon8576/Yahtzee), 📘 [Speech Recognition Notebook](https://colab.research.google.com/drive/1FOOrM3EnNS871vDrD01rgMnXAtkY5qCm?usp=sharing)
-  - 🔢 Tech stack: Keras, Optuna, Docker, WebSockets, Librosa, scikit-learn
+  - 🔢 Tech stack: Keras, Optuna, Docker, WebSockets, Librosa, scikit-learn, Pydub
 
 
  🚀 **My other works**
