@@ -15,7 +15,7 @@ I'm Szymon, an IT enthusiast and recent graduate in the art of AI.
 With this app, you can recognize the sentiment of a single sentence or an entire text.
   - 🌐 [Project homepage](https://analyseit.onrender.com/)
   - 📁 [GitHub Repo](https://github.com/szymon8576/AnalyseIT), 📘 [LSTM Notebook](https://colab.research.google.com/drive/1bwBMnJFGU2RCaIVwUoTuAzc92nFKcTnu?usp=sharing), 📘 [DistilBERT Notebook](https://colab.research.google.com/drive/1it8LqvtzmJGTNIuYOy8Tn_wJ1EecgTTJ?usp=sharing)
-  - 🔢 Tech stack: HuggingFace Models, PyTorch, Optuna, Azure Cloud, Flask, Pandas, Numpy
+  - 🔢 Tech stack: HuggingFace Models, PyTorch, Optuna, PyTest, Azure Cloud, Flask, Pandas, Numpy
 
 - **🎲 Yahtzee Game**  
   Who wouldn't enjoy a nice dice game?  
