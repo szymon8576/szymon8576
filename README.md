@@ -32,6 +32,7 @@ With this app, you can recognize the sentiment of a single sentence or an entire
 - **Stock prediction App** [📁](https://github.com/szymon8576/stock-prediction) (with recurrent neural network) and **Language detection system** [📁](https://github.com/Rasalrai/NUM-language_detection) (with TF-IDF and logistic regression), developed with my colleagues during an AI course,
 - **TensorFlow Serving** [📁](https://github.com/szymon8576/TFServing), a system configured to serve my AI models - deployed as an Azure Web App using Container Registry,
 - **WordleBOT** [📁](https://github.com/szymon8576/WordleBOT), where I employed an entropy-based approach to solve the puzzle and used Selenium for browser interaction,
+- **My volunteer work** - I am co-author and administrator of the local organization's website [📁](https://orkiestrachludowo.pl)
 - Solutions to tasks from my college courses, including [Natural Language Processing](https://github.com/szymon8576/NLP), [Internet Applications](https://github.com/szymon8576/AIACourse), and [other projects](https://github.com/szymon8576?tab=repositories).
 
 
