@@ -1,7 +1,9 @@
 ### Hello, World! 👋 
-I'm Szymon, an IT enthusiast and recent graduate in the art of AI.
+I'm Szymon, Data Scientist and graduate in the art of AI.
 
 🔥 **My latest projects in AI field**
+
+_Some resources may be unavailable due to server cost optimization — sorry for the inconvenience!_
 
 - **📊 AnalyseIT - Sentiment Analysis App**   
  Who said computers don't understand emotions? _AnalyseIT_ recognizes nearly 30 of them!  
